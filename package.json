@@ -1,0 +1,19 @@
+{
+  "name": "@bjornstar/media-engagement-decoder",
+  "version": "1.0.0",
+  "description": "Let's figure out what Google is hiding in their Media Engagement blob",
+  "main": "index.js",
+  "dependencies": {
+    "protobufjs": "^6.8.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjornstar/media-engagement-decoder.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bjorn Stromberg <bjorn@bjornstar.com>",
+  "license": "MIT"
+}
